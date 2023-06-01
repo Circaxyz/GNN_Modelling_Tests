@@ -1,0 +1,19 @@
+graphistry==0.29.1
+
+################
+#
+#  Per-DB
+#
+################
+
+### Neptune
+gremlinpython==3.4.10
+sshtunnel==0.1.5
+
+### TigerGraph
+pyTigerGraph    # Unpinned as TG Cloud is rapidly moving
+plotly          # for demos
+
+### Splunk
+splunk-sdk==1.7.3
+
